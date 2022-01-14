@@ -1,4 +1,4 @@
- ¡Hola || Hi! 👋
+ ¡Hola || Hi ! 👋
 Estos son mis proyectos con los que fui aprendiendo en distintos cursos y capacitaciones, actualmente estoy terminando el mas relevante, mi portfolio ya fuera de cualquier curso
 con mil errores y búsquedas de google, pero propio y lo casero siempre tiene sabor mas rico.
 
